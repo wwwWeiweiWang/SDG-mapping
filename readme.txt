@@ -1,3 +1,5 @@
+Download example files at https://drive.google.com/drive/folders/1VEELPrru2PN0txoTX8T03x_jVFZbXmvS?usp=share_link
+
 1. text_mining
 text mining to extract n-gram keywords, sorted by occurrences or tfidf
 line 18 - change folder of setwd
